@@ -10,7 +10,11 @@ Search: A search functionality to easily find products.
 Category Filter: Products can be filtered by category.
 Checkout Process: A streamlined checkout process that includes a confirmation page.
 ## Technologies Used
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Django (Python)
+
 Database: MySQL
+
 Others: Bootstrap for responsive design.
